@@ -25,11 +25,13 @@
 }
 
 .card-btn{
-     background: #05cbe9;
+     background: #ccd9db;
      color: #111d4a;
      text-decoration: none;
      font-weight: 700;
     font-size: 1.25rem;
+    padding: .35rem 1em;
+    letter-spacing: 1px;
 }
 
 .card-img{
