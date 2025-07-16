@@ -26,3 +26,8 @@
     font-size: 1.25rem;
 }
 
+.card-img{
+    object-fit: cover;
+    height: 150px;
+}
+
