@@ -25,7 +25,7 @@
 }
 
 .card-btn{
-     background: #ccd9db;
+     background: #05cbe9;
      color: #111d4a;
      text-decoration: none;
      font-weight: 700;
@@ -51,6 +51,17 @@
 
 .card-read-time{
     margin: 0;
+    opacity: 0.6;
+    line-height: 1.1;
+
 }
+
+.card-read-time span{
+   display: block;
+   font-weight: 700;
+   font-size: 1.25rem;
+    
+}
+
 
 
