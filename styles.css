@@ -38,5 +38,5 @@
     padding: 1em;
 }
 .card-footer{
-    
+    display: flex;
 }
