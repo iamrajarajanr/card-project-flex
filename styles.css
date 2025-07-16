@@ -65,5 +65,10 @@
     
 }
 
+@media(min-width:600px){
+    .card{
+        flex-direction: row;
+    }
+}
 
 
