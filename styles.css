@@ -13,6 +13,7 @@
     font-family: "Blinker","sans-serif";
 }
 .card-title{
+    margin: 0;
     font-size: 1.75rem;
     color: #05cbe9;
 }
@@ -33,5 +34,9 @@
 }
 
 .card-content{
+    line-height: 1.6;
     padding: 1em;
+}
+.card-footer{
+    
 }
