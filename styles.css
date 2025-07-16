@@ -37,7 +37,7 @@
 .card-img{
     min-height: 0;
     min-width: 0;
-    flex-basis: 150px;
+    flex-basis: 300px;
     object-fit: cover;
     /* height: 150px; */
     background:yellow;
