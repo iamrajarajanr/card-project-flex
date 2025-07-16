@@ -7,11 +7,12 @@
 }
 
 
-.card-title,.card-body,.card-btn{
+.card-title,.card-read-time,.card-btn{
     font-family: "Blinker","sans-serif";
 }
 .card-title{
     font-size: 1.75rem;
+    color: #05cbe9;
 }
 
 .card-body{
