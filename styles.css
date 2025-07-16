@@ -1,0 +1,20 @@
+.card{
+    background-color: #111d4a;
+    color: #fff;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 800px;
+}
+
+.card-title{
+    font-size: 1.75rem;
+}
+
+.card-body{
+    font-size: 1 rem;
+}
+
+.card-btn{
+    font-size: 1.25rem;
+}
+
