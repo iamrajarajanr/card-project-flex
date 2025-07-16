@@ -25,7 +25,10 @@
 }
 
 .card-btn{
-     color: #05cbe9;
+     background: #05cbe9;
+     color: #111d4a;
+     text-decoration: none;
+     font-weight: 700;
     font-size: 1.25rem;
 }
 
