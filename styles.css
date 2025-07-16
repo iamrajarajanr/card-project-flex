@@ -6,6 +6,10 @@
     max-width: 800px;
 }
 
+
+.card-title,.card-body,.card-btn{
+    font-family: "Blinker","sans-serif";
+}
 .card-title{
     font-size: 1.75rem;
 }
